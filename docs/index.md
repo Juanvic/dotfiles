@@ -11,7 +11,7 @@ i3wm é uma interface gráfica do Linux voltada a utilizar o terminal e o teclad
 * Terminator (terminal)
 * dmenu
 * vim (editor de texto)
-* mc (midnight commander| explorador de arquivos do terminal)
+* mc (midnight commander/explorador de arquivos do terminal)
 * xcompmgr (transparência do terminal)
 * nitrogen (wallpaper)
 
