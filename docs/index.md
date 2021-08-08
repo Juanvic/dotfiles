@@ -51,4 +51,3 @@ i3wm é uma interface gráfica do Linux voltada a utilizar o terminal e o teclad
 * KeyIndicator
 
 
-
